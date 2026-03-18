@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schema/mod.schema.json",
+  "id": "ai_traffic_fix",
+  "name": "AI Traffic Behavior Fix",
+  "version": "1.0.0",
+  "author": "YourName",
+  "description": "Improves civilian AI braking, emergency yielding, and scene-vehicle avoidance.",
+  "entry": "scripts/main.lua",
+  "gameVersion": "*",
+  "dependencies": [],
+  "enabledByDefault": false
+}

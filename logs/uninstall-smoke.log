@@ -1,0 +1,55 @@
+﻿2026-03-17 21:06:50.484   Log opened. (Time zone: UTC-07:00)
+2026-03-17 21:06:50.484   Setup version: Inno Setup version 6.7.1
+2026-03-17 21:06:50.484   Original Uninstall EXE: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\unins000.exe
+2026-03-17 21:06:50.484   Uninstall DAT: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\unins000.dat
+2026-03-17 21:06:50.484   Current Uninstall EXE: C:\Users\blade\AppData\Local\Temp\is-MJQJ5B3K75-uninstall.tmp\_unins.tmp
+2026-03-17 21:06:50.484   Uninstall command line: /SECONDPHASE="C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\unins000.exe" /FIRSTPHASEWND=$2F70A98 /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /LOG=C:\Users\blade\OneDrive\Desktop\InfernaCore\logs\uninstall-smoke.log 
+2026-03-17 21:06:50.484   Windows version: 10.0.26200
+2026-03-17 21:06:50.484   Windows architecture: x64 (64-bit)
+2026-03-17 21:06:50.484   Machine types supported by system: x86 x64
+2026-03-17 21:06:50.484   User privileges: None
+2026-03-17 21:06:50.484   Administrative install mode: No
+2026-03-17 21:06:50.484   Install mode root key: HKEY_CURRENT_USER
+2026-03-17 21:06:50.484   RedirectionGuard status for current process: Enabled in enforcing mode
+2026-03-17 21:06:50.484   Cleaning up any residual temporary files from previous Uninstall runs.
+2026-03-17 21:06:50.485   Deleted file: C:\Users\blade\AppData\Local\Temp\is-SSY0L9A1ZY-uninstall.tmp\_unins.tmp
+2026-03-17 21:06:50.486   Cleanup finished (2 directories found, 2 directories checked, 1 files deleted).
+2026-03-17 21:06:50.487   Created temporary directory: C:\Users\blade\AppData\Local\Temp\is-GOE9LJBWFW.tmp
+2026-03-17 21:06:50.515   Starting the uninstallation process.
+2026-03-17 21:06:50.515   Deleting registry key: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\{F3A2C1D0-8B4E-4F7A-9E6C-2D5B0A3F1E8D}_is1
+2026-03-17 21:06:50.657   Deleting file: C:\Users\blade\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\InfernaCore\Uninstall InfernaCore.lnk
+2026-03-17 21:06:50.660   Deleting directory: C:\Users\blade\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\InfernaCore
+2026-03-17 21:06:50.661   Failed to delete directory (145). Will retry later.
+2026-03-17 21:06:50.727   Deleting file: C:\Users\blade\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\InfernaCore\InfernaCore.lnk
+2026-03-17 21:06:50.728   Deleting directory: C:\Users\blade\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\InfernaCore
+2026-03-17 21:06:50.728   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\EULA.txt
+2026-03-17 21:06:50.729   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\README.md
+2026-03-17 21:06:50.729   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\tools\ModManagerStandalone.ps1
+2026-03-17 21:06:50.729   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\tools\ModManager.ps1
+2026-03-17 21:06:50.729   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\tools
+2026-03-17 21:06:50.729   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\Images\InfernaCore_icon.ico
+2026-03-17 21:06:50.730   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\Images
+2026-03-17 21:06:50.730   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\schema\mod.schema.json
+2026-03-17 21:06:50.730   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\schema
+2026-03-17 21:06:50.731   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\Example_HelloMod\scripts\traffic_ai_fix.lua
+2026-03-17 21:06:50.731   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\Example_HelloMod\scripts\main.lua
+2026-03-17 21:06:50.731   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\Example_HelloMod\scripts
+2026-03-17 21:06:50.731   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\Example_HelloMod\mod.json
+2026-03-17 21:06:50.732   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\Example_HelloMod
+2026-03-17 21:06:50.732   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\AITrafficFix\scripts\main.lua
+2026-03-17 21:06:50.732   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\AITrafficFix\scripts
+2026-03-17 21:06:50.732   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\AITrafficFix\mod.json
+2026-03-17 21:06:50.732   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks\AITrafficFix
+2026-03-17 21:06:50.732   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\modpacks
+2026-03-17 21:06:50.733   Deleting file: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\InfernaCore.exe
+2026-03-17 21:06:50.733   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\GameMods
+2026-03-17 21:06:50.733   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest\profiles
+2026-03-17 21:06:50.733   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest
+2026-03-17 21:06:50.733   Failed to delete directory (145). Will retry later.
+2026-03-17 21:06:50.733   Deleting Uninstall data files.
+2026-03-17 21:06:50.734   Creating "_unins-done.tmp" file.
+2026-03-17 21:06:51.255   Deleting directory: C:\Users\blade\AppData\Local\InfernaCore-SmokeTest
+2026-03-17 21:06:51.263   Uninstallation process succeeded.
+2026-03-17 21:06:51.263   Removed all? Yes
+2026-03-17 21:06:51.263   Need to restart Windows? No
+2026-03-17 21:06:51.267   Log closed.
