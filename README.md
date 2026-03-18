@@ -1,6 +1,6 @@
 ﻿# InfernaCore
 
-<img width="200" height="200" alt="InfernaCore_Original" src="https://github.com/user-attachments/assets/3feeb596-a0d6-41b8-9cb5-9951d5989301" />
+<center><img width="200" height="200" alt="InfernaCore_Original" src="https://github.com/user-attachments/assets/3feeb596-a0d6-41b8-9cb5-9951d5989301" /></center>
 
 
 A pre-launch mod manager for Into The Flames.
