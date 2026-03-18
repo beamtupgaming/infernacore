@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schema/mod.schema.json",
+  "id": "hello_mod",
+  "name": "Example Hello Mod",
+  "version": "1.0.0",
+  "author": "YourName",
+  "description": "Template mod package for official mod-folder based loading.",
+  "entry": "scripts/main.lua",
+  "gameVersion": "*",
+  "dependencies": [],
+  "enabledByDefault": false
+}
