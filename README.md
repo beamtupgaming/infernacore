@@ -1,5 +1,8 @@
 ﻿# InfernaCore
 
+<img width="1024" height="1024" alt="InfernaCore_Original" src="https://github.com/user-attachments/assets/3feeb596-a0d6-41b8-9cb5-9951d5989301" />
+
+
 A pre-launch mod manager for Into The Flames.
 It deploys Lua mods through the game's official Mods folder only (no injection, no hooking).
 
